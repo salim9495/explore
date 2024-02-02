@@ -1,4 +1,4 @@
----
+---replicate 
 items:
  - standard/standard
  - eslint/eslint
